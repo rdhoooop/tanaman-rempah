@@ -1,0 +1,42 @@
+/* Styling untuk body */
+body {
+  font-family: Arial, sans-serif;
+  background: #fff8f0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background: #8b4513;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Konten utama */
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #8b4513;
+}
+
+/* Card */
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background: #8b4513;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
